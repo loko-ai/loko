@@ -30,5 +30,5 @@ If you're on platform:
 
 Alternatively,
 
-- go here for the [user guide](https://livetech.gitbook.io/user-guide-loko-ai/)
+- go [here](https://livetech.gitbook.io/user-guide-loko-ai/) for the user guide
 - visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for our videotutorials.
