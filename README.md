@@ -9,7 +9,26 @@ In LOKO AI you have an entire suite of components containing **code and AI funct
 
 With LOKO AI you have **ML features** at your hands: it allows to measure **model performances** and create intelligible reports and, if you have specific needs, you can fine-tune your code with a low-code approach. Then, if necessary, you can **export** your ML model in any other platform.
 
-Here our website https://loko-ai.com/
+[Here](https://loko-ai.com) our website for more information.
+
+
+## Technologies you'll find on LOKO AI
+
+
 
 ## Installation
-first step and second step and third step
+
+
+
+### Dependencies
+
+### How to use LOKO AI?
+
+If you're on platform:
+- in the welcome page go to **Read the documentation** to open the user guide
+- go to **Academy** section to see videotutorials and lessons to learn how to use LOKO AI and see specific use case.
+
+Alternatively,
+
+- go here for the [user guide](https://livetech.gitbook.io/user-guide-loko-ai/)
+- visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for our videotutorials.
