@@ -1,7 +1,7 @@
 ![logo_50](https://user-images.githubusercontent.com/78538303/180229383-b5b2d7cc-bee0-4688-9a8a-1c200976ad78.png)
 
 
-LOKO AI is a **low-code platform** designed to easily and quickly create **artificial intelligence applications** to be implemented in business processes.
+LOKO AI is a great **low-code platform** designed to easily and quickly create **artificial intelligence applications** to be implemented in business processes.
 
 # How does it work?
 
