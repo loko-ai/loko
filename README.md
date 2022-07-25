@@ -5,7 +5,7 @@ LOKO AI is a **low-code platform** designed to easily and quickly create **artif
 
 # How does it work?
 
-In LOKO AI you have an entire suite of components containing **code and AI functionalities**: each component is a **block**, with its functionalities and its own code. To use the blocks in a workflow, you just have to do nothing.
+In LOKO AI you have an entire suite of components containing **code and AI functionalities**: each component is a **block**, with its functionalities and its own code. To use the blocks in a workflow, you just have to **drag&drop** each one on the workspace and to configure them.
 
 With LOKO AI you have **ML features** at your hands: it allows to measure **model performances** and create intelligible reports and, if you have specific needs, you can fine-tune your code with a low-code approach. Then, if necessary, you can **export** your ML model in any other platform.
 
@@ -16,15 +16,21 @@ With LOKO AI you have **ML features** at your hands: it allows to measure **mode
 
 
 
-## Installation
 
 
+# Installation
+
+Build Type                    | Artifacts                                                | Status
+----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
+**Windows**                  | [PyPI](https://pypi.org/project/tf-nightly/)
+**Linux**                  | [PyPI](https://pypi.org/project/tf-nightly-gpu/)
+**MacOS**                  | TBA
 
 ### Dependencies
 
 ### How to use LOKO AI?
 
-If you're on platform:
+If you're on the platform:
 - in the welcome page go to **Read the documentation** to open the user guide
 - go to **Academy** section to see videotutorials and lessons to learn how to use LOKO AI and see specific use case.
 
@@ -32,3 +38,6 @@ Alternatively,
 
 - go [here](https://livetech.gitbook.io/user-guide-loko-ai/) for the user guide
 - visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for our videotutorials.
+
+# Troubleshooting
+
