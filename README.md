@@ -14,12 +14,12 @@ With LOKO AI you have **ML features** at your hands: it allows to measure **mode
 
 ## Technologies you'll find on LOKO AI
 
-On loko you can find..
+On loko you can find different tools
 
 
 
 
-# Installation
+# Installati different tools
 
 Build Type                    | Artifacts                                                | Status
 ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
