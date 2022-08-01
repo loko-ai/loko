@@ -26,7 +26,7 @@ Build Type                    | Artifacts                                       
 **Linux**                  | [PyPI](https://pypi.org/project/tf-nightly-gpu/)
 **MacOS**                  | TBA
 
-### D
+### Dependencies
 
 ### How to use LOKO AI?
 
@@ -41,4 +41,3 @@ Alternatively,
 
 # Troubleshooting
 
-punto uno:
