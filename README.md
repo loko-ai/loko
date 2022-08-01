@@ -14,8 +14,36 @@ With LOKO AI you have **ML features** at your hands: it allows to measure **mode
 
 ## Technologies you'll find on LOKO AI
 
-On loko you can find different tools
 
+
+# Requirements
+
+To start using Loko AI all you need to install is Docker.
+
+You can install Docker on every principal OS, like Windows, MacOS and Linux.
+
+Debian/Ubuntu based distros:
+- sudo apt install docker.io
+
+RHEL based distros:
+- sudo yum install -y yum-utils
+- sudo yum-config-manager --add-repo https://download.docker.com/linux/rhel/docker-ce.repo
+- sudo yum install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+
+CentOS based distros:
+- sudo yum install -y yum-utils
+- sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+
+Fedora based distros:
+- sudo dnf -y install dnf-plugins-core
+- sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
+- sudo dnf install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+
+Windows OS:
+- install Docker Desktop following this [LINK](https://docs.docker.com/desktop/install/windows-install/)
+
+Mac OS (for Intel Chip and Apple Silicon):
+- install Docker Desktop followind this [LINK](https://docs.docker.com/desktop/install/mac-install/)
 
 
 
