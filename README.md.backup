@@ -31,8 +31,8 @@ Build Type                    | Artifacts                                       
 ### How to use LOKO AI?
 
 If you're on the platform:
-- in the welcome page go to **Read the documentation** to open the user guide
-- go to **Academy** section to see videotutorials and lessons to learn how to use LOKO AI and see specific use case.
+- in the welcome page, go to **Read the documentation** to open the user guide
+- go to **Academy** section for videotutorials and lessons to learn how to use LOKO AI, and see specific use case.
 
 Alternatively,
 
