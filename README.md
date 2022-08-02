@@ -16,12 +16,25 @@ With LOKO AI you have **ML features** at your hands: it allows to measure **mode
 
 ![Screenshot (350)](https://user-images.githubusercontent.com/78538303/182337225-e8182782-d8d0-43e0-b16c-9ee17f7eabb2.png)
 
->>>>>>> 346bfaf22d02deb59ba13217ad1fc644b9e72f74
 
 [Here](https://loko-ai.com) our website for more information.
 
 
 ## Technologies you'll find on LOKO AI
+
+
+
+On LOKO AI you'll be able to carry out several task, using our blocks, which are based on the most common technologies used in the AI field, indepently of the type of data you have. 
+
+For the Machine Learning tasks, all the **Sklearn** regression and classification models are available and also other well known alghoritms such as **XGBoost**, **CatBoost** and **LightGBoost**. If you want to use a more elaborated model you can use a Neural Network model, some pre-defined version are available, which are based on **Tensorflow** and **PyTorch** technology. LOKO AI has an **AUTOML** tool, which use **Optuna** to tune the hyper-parameter, and choose the model that performs better on your data.
+
+If you have some files and you want to extract the text inside, you can use our OCR blocks, based on **Tesseract** framework.
+
+If the data you have is textual, it is possible to apply some pre-processing through our NLP blocks, which use **NLTK** and **SPACY**, if needed, and extract entities using rules models or AI, through **Spacy** or **Hugging Face** frameworks, based on what fits you the best.
+
+
+Finally, it's possible to manage your favourite database among the one supported, whether it is a **cloud database**, a **relational** or **non-relational** one. Currently supported database: **SQL**, **MongoDB**, **AWS**.
+
 
 
 # Requirements
@@ -96,7 +109,6 @@ Alternatively,
 
 
 
->>>>>>> f9615558a914bf5dc98eb5e61f4e9fd57a7faa4f
 
 
 
