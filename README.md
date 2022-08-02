@@ -48,10 +48,10 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 - sudo dnf install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 **Windows OS**:
-- install Docker Desktop following this [LINK](https://docs.docker.com/desktop/install/windows-install/)
+- install Docker Desktop following [this link](https://docs.docker.com/desktop/install/windows-install/)
 
 **Mac OS** (for Intel Chip and Apple Silicon):
-- install Docker Desktop followind this [LINK](https://docs.docker.com/desktop/install/mac-install/)
+- install Docker Desktop followind [this LINK](https://docs.docker.com/desktop/install/mac-install/)
 
 
 
