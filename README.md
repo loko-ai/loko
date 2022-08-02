@@ -14,6 +14,10 @@ With LOKO AI you have **ML features** at your hands: it allows to measure **mode
 
 
 
+![Screenshot (350)](https://user-images.githubusercontent.com/78538303/182337225-e8182782-d8d0-43e0-b16c-9ee17f7eabb2.png)
+
+>>>>>>> 346bfaf22d02deb59ba13217ad1fc644b9e72f74
+
 [Here](https://loko-ai.com) our website for more information.
 
 
@@ -94,8 +98,7 @@ Alternatively,
 
 # Troubleshooting
 
-<<<<<<< HEAD
-=======
+
 
 >>>>>>> f9615558a914bf5dc98eb5e61f4e9fd57a7faa4f
 
