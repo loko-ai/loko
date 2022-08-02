@@ -6,13 +6,11 @@ LOKO AI is a **low-code platform** designed to easily and quickly create **artif
 # How does it work?
 
 
-![welcomepage](file:///C:/Users/stefa/Pictures/Screenshots/Screenshot(349).png)
-
 In LOKO AI you have an entire suite of components containing **code and AI functionalities**: each component is a **block**, with its functionalities and its own code. To use the blocks in a workflow, you just have to **drag&drop** each one on the workspace and to configure them.
 
 With LOKO AI you have **ML features** at your hands: it allows to measure **model performances** and create intelligible reports and, if you have specific needs, you can fine-tune your code with a low-code approach. Then, if necessary, you can **export** your ML model in any other platform.
 
-![flusso](file:///C:/Users/stefa/Pictures/Screenshots/Screenshot(350).png)
+![Screenshot (350)](https://user-images.githubusercontent.com/78538303/182334641-78c82999-53fc-42d4-969b-977941237fb9.png)
 
 
 [Here](https://loko-ai.com) our website for more information.
