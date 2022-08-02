@@ -23,10 +23,6 @@ With LOKO AI you have **ML features** at your hands: it allows to measure **mode
 
 ## Technologies you'll find on LOKO AI
 
-![Github Actions Status](https://github.com/jupyter/notebook/workflows/Build/badge.svg)
-[![Documentation Status](https://readthedocs.org/projects/jupyter-notebook/badge/?version=latest)](https://jupyter-notebook.readthedocs.io/en/latest/?badge=latest)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter/notebook/main?urlpath=tree)
-[![codecov](https://codecov.io/gh/jupyter/notebook/branch/master/graph/badge.svg)](https://codecov.io/gh/jupyter/notebook)
 
 # Requirements
 
