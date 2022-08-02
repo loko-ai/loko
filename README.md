@@ -12,7 +12,7 @@ In LOKO AI you have an entire suite of components containing **code and AI funct
 
 With LOKO AI you have **ML features** at your hands: it allows to measure **model performances** and create intelligible reports and, if you have specific needs, you can fine-tune your code with a low-code approach. Then, if necessary, you can **export** your ML model in any other platform.
 
-
+![](immagini/Screenshot(350).png)
 
 [Here](https://loko-ai.com) our website for more information.
 
