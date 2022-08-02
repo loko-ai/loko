@@ -16,7 +16,6 @@ With LOKO AI you have **ML features** at your hands: it allows to measure **mode
 
 ![Screenshot (350)](https://user-images.githubusercontent.com/78538303/182337225-e8182782-d8d0-43e0-b16c-9ee17f7eabb2.png)
 
->>>>>>> 346bfaf22d02deb59ba13217ad1fc644b9e72f74
 
 [Here](https://loko-ai.com) our website for more information.
 
@@ -51,7 +50,7 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 - install Docker Desktop following [this link](https://docs.docker.com/desktop/install/windows-install/)
 
 **Mac OS** (for Intel Chip and Apple Silicon):
-- install Docker Desktop followind [this LINK](https://docs.docker.com/desktop/install/mac-install/)
+- install Docker Desktop following [this link](https://docs.docker.com/desktop/install/mac-install/)
 
 
 
@@ -65,7 +64,7 @@ Build Type                    | Artifacts                                       
 
 ### Dependencies
 
-Python 3.10
+[![Python] 3.10
 sanic 22.6.0
 sanic openapi 21.12.0
 hugging face
@@ -93,10 +92,6 @@ Alternatively,
 - visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for our videotutorials.
 
 # Troubleshooting
-
-
-
->>>>>>> f9615558a914bf5dc98eb5e61f4e9fd57a7faa4f
 
 
 
