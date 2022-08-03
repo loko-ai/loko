@@ -4,11 +4,12 @@
 LOKO AI is a **low-code platform** designed to easily and quickly create **artificial intelligence applications** to be implemented in business processes.
 
 
-# Releases
+# :computer: Releases
 
-:computer:
+
 
 [Latest release](https://github.com/loko-ai/loko/releases)
+
 
 # How does it work?
 
@@ -50,7 +51,7 @@ Finally, it's possible to manage your favourite database among the one supported
 
 
 
-# Requirements
+# :heavy_exclamation_mark: Requirements
 
 To install LOKO AI all you need is **Docker**.
 
@@ -93,7 +94,7 @@ Build Type                    | Artifacts                                       
 
 ### Dependencies
 
-[![Python] 3.10
+[Python] 3.10
 sanic 22.6.0
 sanic openapi 21.12.0
 hugging face
@@ -110,6 +111,7 @@ React.js
 Flask
 
 ### How to use LOKO AI?
+
 
 If you're on the platform:
 - in the welcome page, go to **Read the documentation** to open the user guide
