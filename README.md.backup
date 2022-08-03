@@ -3,6 +3,13 @@
 
 LOKO AI is a **low-code platform** designed to easily and quickly create **artificial intelligence applications** to be implemented in business processes.
 
+
+# Releases
+
+:computer:
+
+[Latest release](https://github.com/loko-ai/loko/releases)
+
 # How does it work?
 
 
@@ -26,7 +33,7 @@ On LOKO AI you'll be able to carry out several task, using our **blocks**, which
 
 ### *Machine Learning*
 
-For the **Machine ** tasks, all the **Sklearn** regression and classification models are available and also other well known alghoritms such as **XGBoost**, **CatBoost** and **LightGBoost**. 
+For the **ML** tasks, all the **Sklearn** regression and classification models are available and also other well known alghoritms such as **XGBoost**, **CatBoost** and **LightGBoost**. 
 
 If you want to use a more elaborated model you can use a Neural Network model, some pre-defined version are available, which are based on **Tensorflow** and **PyTorch** technology. 
 
@@ -34,7 +41,7 @@ LOKO AI has an **AUTOML** tool, which use **Optuna** to tune the hyper-parameter
 
 ### *Natural Language Processing*
 
-If you have some files and you want to extract the text inside, you can use our OCR blocks, based on **Tesseract** framework.
+If you have some files and you want to extract the text inside, you can use our **OCR blocks**, based on **Tesseract** framework.
 
 If the data you have is textual, it is possible to apply some pre-processing through our **NLP blocks**, which use **NLTK** and **SPACY**, if needed, and extract entities using rules models or AI, through **Spacy** or **Hugging Face** frameworks, based on what fits you the best.
 
@@ -82,7 +89,6 @@ Build Type                    | Artifacts                                       
 **Linux**                  | [PyPI](https://pypi.org/project/tf-nightly-gpu/)
 **MacOS**                  | TBA
 
-[Releases](https://github.com/loko-ai/loko/releases)
 
 
 ### Dependencies

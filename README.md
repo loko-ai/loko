@@ -3,6 +3,13 @@
 
 LOKO AI is a **low-code platform** designed to easily and quickly create **artificial intelligence applications** to be implemented in business processes.
 
+
+# Releases
+
+:computer:
+
+[Latest release](https://github.com/loko-ai/loko/releases)
+
 # How does it work?
 
 
@@ -34,7 +41,7 @@ LOKO AI has an **AUTOML** tool, which use **Optuna** to tune the hyper-parameter
 
 ### *Natural Language Processing*
 
-If you have some files and you want to extract the text inside, you can use our OCR blocks, based on **Tesseract** framework.
+If you have some files and you want to extract the text inside, you can use our **OCR blocks**, based on **Tesseract** framework.
 
 If the data you have is textual, it is possible to apply some pre-processing through our **NLP blocks**, which use **NLTK** and **SPACY**, if needed, and extract entities using rules models or AI, through **Spacy** or **Hugging Face** frameworks, based on what fits you the best.
 
@@ -82,7 +89,6 @@ Build Type                    | Artifacts                                       
 **Linux**                  | [PyPI](https://pypi.org/project/tf-nightly-gpu/)
 **MacOS**                  | TBA
 
-[Releases](https://github.com/loko-ai/loko/releases)
 
 
 ### Dependencies
@@ -104,6 +110,7 @@ React.js
 Flask
 
 ### How to use LOKO AI?
+
 
 If you're on the platform:
 - in the welcome page, go to **Read the documentation** to open the user guide
