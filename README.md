@@ -84,11 +84,11 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 
 # Installation
 
-Build Type                    | Artifacts                                                | Status
------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
-[**Windows**](https://github.com/loko-ai/loko/releases/download/windows-0.0.1-alpha/LoKo-Windows-0.3.3-Setup.2.exe)                  | [PyPI](https://pypi.org/project/tf-nightly/)
-[**Linux**](https://github.com/loko-ai/loko/releases/download/linux-v0.0.1-alpha/LoKo-Linux-0.3.3.AppImage)                  | [PyPI](https://pypi.org/project/tf-nightly-gpu/)
-**MacOS**                  | TBA
+**Distribution** | **Status**
+  -----------|------------|
+[**Windows**](https://github.com/loko-ai/loko/releases/download/windows-0.0.1-alpha/LoKo-Windows-0.3.3-Setup.2.exe) | |                  
+[**Linux**](https://github.com/loko-ai/loko/releases/download/linux-v0.0.1-alpha/LoKo-Linux-0.3.3.AppImage)
+MacOS
 
 
 
