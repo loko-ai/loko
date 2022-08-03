@@ -5,10 +5,7 @@ LOKO AI is a **low-code platform** designed to easily and quickly create **artif
 
 
 # :computer: Releases
-<<<<<<< HEAD
 
-=======
->>>>>>> a60ab80a7d44e8d64e004e2c6224f91e97a53217
 
 
 [Latest release](https://github.com/loko-ai/loko/releases)
@@ -90,7 +87,7 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 Build Type                    | Artifacts                                                | Status
 ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
 [**Windows**](https://github.com/loko-ai/loko/releases/download/windows-0.0.1-alpha/LoKo-Windows-0.3.3-Setup.2.exe)                  | [PyPI](https://pypi.org/project/tf-nightly/)
-**Linux**                  | [PyPI](https://pypi.org/project/tf-nightly-gpu/)
+[**Linux**]                  | [PyPI](https://pypi.org/project/tf-nightly-gpu/)
 **MacOS**                  | TBA
 
 

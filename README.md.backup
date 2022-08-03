@@ -94,7 +94,7 @@ Build Type                    | Artifacts                                       
 
 ### Dependencies
 
-[Python] 3.10
+Python 3.10
 sanic 22.6.0
 sanic openapi 21.12.0
 hugging face
