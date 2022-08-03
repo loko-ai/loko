@@ -5,7 +5,10 @@ LOKO AI is a **low-code platform** designed to easily and quickly create **artif
 
 
 # :computer: Releases
+<<<<<<< HEAD
 
+=======
+>>>>>>> a60ab80a7d44e8d64e004e2c6224f91e97a53217
 
 
 [Latest release](https://github.com/loko-ai/loko/releases)
