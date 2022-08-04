@@ -100,6 +100,8 @@ https://badgen.net/lgtm/langs/g/apache/cloudstack/java
 
 /badge/:sanic/:22.6.0/:yellow?icon=sanic
 
+https://img.shields.io/badge/python-version%203.10-green
+
 https://badgen.net/badge/:sanic openapi/:21.12.0/:green?icon=github
 
 https://badgen.net/badge/:hugging face/:no/:blue?icon=github
