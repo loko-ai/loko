@@ -94,18 +94,28 @@ MacOS
 
 ### Dependencies
 
-Python 3.10
-sanic 22.6.0
-sanic openapi 21.12.0
-hugging face
-PyTorch 1.11.0
-Keras
+https://badgen.net/lgtm/langs/g/apache/cloudstack/java
+
+https://badgen.net/badge/:Python/:3.10/:blue?icon=github 
+
+https://badgen.net/badge/:sanic/:22.6.0/:yellow?icon=github
+
+https://badgen.net/badge/:sanic openapi/:21.12.0/:green?icon=github
+
+https://badgen.net/badge/:hugging face/:no/:blue?icon=github
+
+https://badgen.net/badge/:PyTorch/:1.11.0/:red?icon=github
+
+https://badgen.net/badge/:Keras/:no/:black?icon=github
+
 Tensorflow
 Pandas
 OpenCV
 Spacy
 NLTK
 SKlearn
+
+https://badgen.net/badge/:Tesseract/:4./:white?icon=github
 Tesseract 4.x.x
 React.js
 Flask
