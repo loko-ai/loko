@@ -115,6 +115,8 @@ Open the terminal, browse to the directory which contains the **.AppImage file**
 
 Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
 
+![MicrosoftTeams-image (14)](https://user-images.githubusercontent.com/78538303/182902661-4547e29e-ae6a-402f-89a3-793ffd3f823c.png)
+
 
 ### Dependencies
 
