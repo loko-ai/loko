@@ -38,7 +38,7 @@ For the **ML** tasks, all the **Sklearn** regression and classification models a
 
 If you want to use a more elaborated model you can use a Neural Network model, some pre-defined version are available, which are based on **Tensorflow** and **PyTorch** technology. 
 
-LOKO AI has an **AUTOML** tool, which use **Optuna** to tune the hyper-parameter, and choose the model that performs better on your data.
+LOKO AI has an **AutoML** tool, which use **Optuna** to tune the hyper-parameter, and choose the model that performs better on your data.
 
 ### *Natural Language Processing*
 
@@ -85,9 +85,8 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 # Installation
 
 **Distribution** | **Status**
--------------|-----------|
-
-[**Windows**](https://github.com/loko-ai/loko/releases/download/windows-0.0.1-alpha/LoKo-Windows-0.3.3-Setup.2.exe) | tba |                  
+  -----------|------------|
+[**Windows**](https://github.com/loko-ai/loko/releases/download/windows-0.0.1-alpha/LoKo-Windows-0.3.3-Setup.2.exe) | |                  
 [**Linux**](https://github.com/loko-ai/loko/releases/download/linux-v0.0.1-alpha/LoKo-Linux-0.3.3.AppImage)
 MacOS
 

@@ -28,17 +28,17 @@ With LOKO AI you have **ML features** at your hands: it allows to measure **mode
 [Here](https://loko-ai.com) our website for more information.
 
 
-## Technologies you'll find on LOKO AI
+## Technologies you'll find in LOKO AI
 
 On LOKO AI you'll be able to carry out several task, using our **blocks**, which are based on the most common technologies used in the **AI** field, indepently of the type of data you have. 
 
-### *Machine Learning*
+### *Machine Learning and Deep Learning*
 
 For the **ML** tasks, all the **Sklearn** regression and classification models are available and also other well known alghoritms such as **XGBoost**, **CatBoost** and **LightGBoost**. 
 
 If you want to use a more elaborated model you can use a Neural Network model, some pre-defined version are available, which are based on **Tensorflow** and **PyTorch** technology. 
 
-LOKO AI has an **AUTOML** tool, which use **Optuna** to tune the hyper-parameter, and choose the model that performs better on your data.
+LOKO AI has an **AutoML** tool, which use **Optuna** to tune the hyper-parameter, and choose the model that performs better on your data.
 
 ### *Natural Language Processing*
 
