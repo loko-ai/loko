@@ -123,6 +123,30 @@ Alternatively,
 
 # Troubleshooting
 
+## Linux
+
+Hardware minimum requirements:
+- HW Acceleration 
+- GPU Drivers
+- an Intel Pentium 4 processor or later that's SSE3 capable
+
+Software requirements: 
+- 64-bit Ubuntu 18.04+ 
+- Debian 10+
+- openSUSE 15.2+
+- or Fedora Linux 32+
+- Docker
+
+### Installation
+
+- Download LOKO AI .AppImage executable [here](LINK FILE .AppImage)
+
+- In order to run LOKO AI, the AppImage must be executed as a Program:
+
+Open the terminal, browse to the directory which contains the **.AppImage file**, execute: **chmod +x loko-Linux-0.3.3.appimage**. 
+
+Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
+
 
 
 
