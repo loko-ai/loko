@@ -111,6 +111,8 @@ MacOS
 
 Open the terminal, browse to the directory which contains the **.AppImage file**, execute: **chmod +x loko-Linux-0.3.3.appimage**. 
 
+![MicrosoftTeams-image (13)](https://user-images.githubusercontent.com/78538303/182899410-a4ac1834-9393-474b-a4e0-938afb0378b8.png)
+
 Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
 
 
