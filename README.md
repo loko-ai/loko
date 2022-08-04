@@ -80,6 +80,20 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 **Mac OS** (for Intel Chip and Apple Silicon):
 - install Docker Desktop following [this link](https://docs.docker.com/desktop/install/mac-install/)
 
+**Linux**:
+
+Hardware minimum requirements:
+- HW Acceleration 
+- GPU Drivers
+- an Intel Pentium 4 processor or later that's SSE3 capable
+
+Software requirements: 
+- 64-bit Ubuntu 18.04+ 
+- Debian 10+
+- openSUSE 15.2+
+- or Fedora Linux 32+
+- Docker
+
 
 
 # Installation
@@ -90,6 +104,14 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 [**Linux**](https://github.com/loko-ai/loko/releases/download/linux-v0.0.1-alpha/LoKo-Linux-0.3.3.AppImage)
 MacOS
 
+## Linux
+- Download LOKO AI .AppImage executable [here](LINK FILE .AppImage)
+
+- In order to run LOKO AI, the AppImage must be executed as a Program:
+
+Open the terminal, browse to the directory which contains the **.AppImage file**, execute: **chmod +x loko-Linux-0.3.3.appimage**. 
+
+Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
 
 
 ### Dependencies
@@ -125,28 +147,20 @@ Alternatively,
 
 ## Linux
 
-Hardware minimum requirements:
-- HW Acceleration 
-- GPU Drivers
-- an Intel Pentium 4 processor or later that's SSE3 capable
 
-Software requirements: 
-- 64-bit Ubuntu 18.04+ 
-- Debian 10+
-- openSUSE 15.2+
-- or Fedora Linux 32+
-- Docker
-
-### Installation
-
-- Download LOKO AI .AppImage executable [here](LINK FILE .AppImage)
-
-- In order to run LOKO AI, the AppImage must be executed as a Program:
-
-Open the terminal, browse to the directory which contains the **.AppImage file**, execute: **chmod +x loko-Linux-0.3.3.appimage**. 
-
-Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
-
+• If there are some errors regarding FUSE in the terminal or the LOKO AI app doesn't run, try
+to install FUSE by following these instructions:
+https://github.com/AppImage/AppImageKit/wiki/FUSE
+If FUSE is already installed, try to restart your PC
+• If in the terminal you see “Exiting GPU process due to errors during initialization”,
+it means that you don’t have any HW Acceleration, try to install or update your GPU Driver
+• If in the terminal you see “libGL error: MESA-LOADER: failed to retrieve device
+information” it means that you are using an unsupported, unofficial or third-party GPU
+Driver, try to install a different GPU Driver or update your existing one
+• During the first start of LOKO AI, the app will pull the required containers from a remote
+repository. If there are network errors or corrupted downloads, LOKO AI could still run but
+some functionalities could be broken, try to close and start again LOKO AI in order to pull
+again its containers 
 
 
 
