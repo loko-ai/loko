@@ -114,6 +114,8 @@ Open the terminal, browse to the directory which contains the **.AppImage file**
 Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
 
 
+Run LOKO AI by double-clicking on the .AppImage file or by typing the .AppImage file
+name in the terminal. 
 ### Dependencies
 
 
