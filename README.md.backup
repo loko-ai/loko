@@ -131,7 +131,7 @@ name in the terminal.
 [![SKlearn](https://badgen.net/badge/SKlearn/loading/yellow)](https://scikit-learn.org/stable/)
 [![Tesseract](https://badgen.net/badge/Tesseract/4.x.x/blue?icon=github)](https://github.com/tesseract-ocr/tesseract) 
 [![React.js](https://badgen.net/badge/React.js/loading/pink)](https://reactjs.org/)
-[![Flask](https://badgen.net/badge/Flask/loading/cyan)](https://flask.palletsprojects.com/en/2.2.x/)
+[![Flask](https://badgen.net/badge/Flask/loading/cyan)](https://flask.palletsprojects.com/en/2.2.x/)![Optuna](https://badgen.net/badge/Optuna/loading/pink)(https://optuna.org/)
 
 ### How to use LOKO AI?
 
@@ -158,7 +158,7 @@ If FUSE is already installed, try to restart your PC:
 
 • If in the terminal you see *libGL error: MESA-LOADER: failed to retrieve device information* it means that you are using an unsupported, unofficial or third-party **GPU Driver**, try to install a different GPU Driver or update your existing one
 
-• During the first start of LOKO AI, the app will pull the required containers from a remote repository. If there are network **errors** or corrupted downloads, LOKO AI could **still run** but some functionalities could be **broken**, try to close and start again LOKO AI in order to pull again its containers 
+• During the first start of LOKO AI, the app will pull the required containers from a remote repository. If there are network **errors** or corrupted downloads, LOKO AI could **still run** but some functionalities could be **broken**, try to close and start again LOKO AI in order to **pull again** its containers 
 
 
 

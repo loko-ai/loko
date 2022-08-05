@@ -58,33 +58,27 @@ To install LOKO AI all you need is **Docker**.
 You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 
 **Debian/Ubuntu** based distros:
-- sudo apt install -y docker.io
-- sudo systemctl enable docker && sudo systemctl start docker
-- sudo usermod -aG docker $USER && reboot
+- sudo apt install docker.io
 
-**RHEL/CentOS** based distros:
-- sudo yum remove -y docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-engine podman runc
+**RHEL** based distros:
+- sudo yum install -y yum-utils
+- sudo yum-config-manager --add-repo https://download.docker.com/linux/rhel/docker-ce.repo
+- sudo yum install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+
+**CentOS** based distros:
 - sudo yum install -y yum-utils
 - sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
-- sudo yum install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
-- sudo systemctl enable docker && sudo systemctl start docker
-- sudo usermod -aG docker $USER && reboot
 
 **Fedora** based distros:
-- sudo dnf remove -y docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-selinux docker-engine-selinux docker-engine
-- sudo dnf install -y dnf-plugins-core
+- sudo dnf -y install dnf-plugins-core
 - sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
-- sudo dnf install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
-- sudo systemctl enable docker && sudo systemctl start docker
-- sudo usermod -aG docker $USER && reboot
+- sudo dnf install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 **Windows OS**:
-- install Docker Desktop following this [link](https://docs.docker.com/desktop/install/windows-install/)
+- install Docker Desktop following [this link](https://docs.docker.com/desktop/install/windows-install/)
 
 **Mac OS** (for Intel Chip and Apple Silicon):
-- install Docker Desktop following this [link](https://docs.docker.com/desktop/install/mac-install/)
-
-
+- install Docker Desktop following [this link](https://docs.docker.com/desktop/install/mac-install/)
 
 **Linux**:
 
@@ -94,11 +88,11 @@ Hardware minimum requirements:
 - an Intel Pentium 4 processor or later that's SSE3 capable
 
 Software requirements: 
-- 64-bit OS
-- Ubuntu 18.04+ 
+- 64-bit Ubuntu 18.04+ 
 - Debian 10+
 - openSUSE 15.2+
-- Fedora Linux 32+
+- or Fedora Linux 32+
+- Docker
 
 
 
@@ -138,6 +132,7 @@ name in the terminal.
 [![Tesseract](https://badgen.net/badge/Tesseract/4.x.x/blue?icon=github)](https://github.com/tesseract-ocr/tesseract) 
 [![React.js](https://badgen.net/badge/React.js/loading/pink)](https://reactjs.org/)
 [![Flask](https://badgen.net/badge/Flask/loading/cyan)](https://flask.palletsprojects.com/en/2.2.x/)
+[![Optuna](https://badgen.net/badge/Optuna/loading/pink)(https://optuna.org/)
 
 ### How to use LOKO AI?
 
