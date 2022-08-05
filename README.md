@@ -79,10 +79,10 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 - sudo usermod -aG docker $USER && reboot
 
 **Windows OS**:
-- install Docker Desktop following [this link](https://docs.docker.com/desktop/install/windows-install/)
+- install Docker Desktop following this [link](https://docs.docker.com/desktop/install/windows-install/)
 
 **Mac OS** (for Intel Chip and Apple Silicon):
-- install Docker Desktop following [this link](https://docs.docker.com/desktop/install/mac-install/)
+- install Docker Desktop following this [link](https://docs.docker.com/desktop/install/mac-install/)
 
 
 
