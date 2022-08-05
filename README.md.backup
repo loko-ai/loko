@@ -132,7 +132,7 @@ name in the terminal.
 [![Tesseract](https://badgen.net/badge/Tesseract/4.x.x/blue?icon=github)](https://github.com/tesseract-ocr/tesseract) 
 [![React.js](https://badgen.net/badge/React.js/loading/pink)](https://reactjs.org/)
 [![Flask](https://badgen.net/badge/Flask/loading/cyan)](https://flask.palletsprojects.com/en/2.2.x/)
-[![Optuna](https://badgen.net/badge/Optuna/loading/pink)(https://optuna.org/)
+[![Optuna](https://badgen.net/badge/Optuna/loading/pink)](https://optuna.org/)
 
 ### How to use LOKO AI?
 

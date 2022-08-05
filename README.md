@@ -50,6 +50,25 @@ If the data you have is textual, it is possible to apply some pre-processing thr
 Finally, it's possible to manage your favourite database among the one supported, whether it is a **cloud database**, a **relational** or **non-relational** one. Currently supported database: **SQL**, **MongoDB**, **AWS**.
 
 
+### Libraries
+
+
+[![Python](https://img.shields.io/badge/Python-version%203.10-green)](https://www.python.org/downloads/release/python-3100/)
+[![Sanic](https://badgen.net/badge/sanic/22.6.0/:yellow?icon=sanic)](https://sanic.readthedocs.io/en/stable/)[![SanicOpenAPI](https://img.shields.io/badge/Sanic%20OpenAPI-version%2021.12.0-brightgreen)](https://sanic-openapi.readthedocs.io/en/stable/)
+[![HuggingFace](https://badgen.net/badge/huggingface/yes/?icon=github)](https://github.com/huggingface)[![PyTorch](https://badgen.net/badge/PyTorch/1.11.0/red)](https://pytorch.org/)
+[![Keras](https://badgen.net/badge/Keras/nd/yellow?)](https://keras.io/)
+[![Tensorflow](https://badgen.net/badge/Tensorflow/ND/blue?)](https://www.tensorflow.org/)
+[![Pandas](https://badgen.net/badge/Pandas/loading/purple)](https://pandas.pydata.org/)
+[![OpenCV](https://badgen.net/badge/OpenCV/loading/cyan)](https://opencv.org/)
+[![Spacy](https://badgen.net/badge/Spacy/loading/grey)](https://spacy.io/)
+[![NLTK](https://badgen.net/badge/NLTK/loading/green)](https://www.nltk.org/)
+[![SKlearn](https://badgen.net/badge/SKlearn/loading/yellow)](https://scikit-learn.org/stable/)
+[![Tesseract](https://badgen.net/badge/Tesseract/4.x.x/blue?icon=github)](https://github.com/tesseract-ocr/tesseract) 
+[![React.js](https://badgen.net/badge/React.js/loading/pink)](https://reactjs.org/)
+[![Flask](https://badgen.net/badge/Flask/loading/cyan)](https://flask.palletsprojects.com/en/2.2.x/)
+[![Optuna](https://badgen.net/badge/Optuna/loading/pink)](https://optuna.org/)
+
+
 
 # :heavy_exclamation_mark: Requirements
 
@@ -116,23 +135,7 @@ Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permi
 
 Run LOKO AI by double-clicking on the .AppImage file or by typing the .AppImage file
 name in the terminal. 
-### Dependencies
 
-
-[![Python](https://img.shields.io/badge/Python-version%203.10-green)](https://www.python.org/downloads/release/python-3100/)
-[![Sanic](https://badgen.net/badge/sanic/22.6.0/:yellow?icon=sanic)](https://sanic.readthedocs.io/en/stable/)[![SanicOpenAPI](https://img.shields.io/badge/Sanic%20OpenAPI-version%2021.12.0-brightgreen)](https://sanic-openapi.readthedocs.io/en/stable/)
-[![HuggingFace](https://badgen.net/badge/huggingface/yes/?icon=github)](https://github.com/huggingface)[![PyTorch](https://badgen.net/badge/PyTorch/1.11.0/red)](https://pytorch.org/)
-[![Keras](https://badgen.net/badge/Keras/nd/yellow?)](https://keras.io/)
-[![Tensorflow](https://badgen.net/badge/Tensorflow/ND/blue?)](https://www.tensorflow.org/)
-[![Pandas](https://badgen.net/badge/Pandas/loading/purple)](https://pandas.pydata.org/)
-[![OpenCV](https://badgen.net/badge/OpenCV/loading/cyan)](https://opencv.org/)
-[![Spacy](https://badgen.net/badge/Spacy/loading/grey)](https://spacy.io/)
-[![NLTK](https://badgen.net/badge/NLTK/loading/green)](https://www.nltk.org/)
-[![SKlearn](https://badgen.net/badge/SKlearn/loading/yellow)](https://scikit-learn.org/stable/)
-[![Tesseract](https://badgen.net/badge/Tesseract/4.x.x/blue?icon=github)](https://github.com/tesseract-ocr/tesseract) 
-[![React.js](https://badgen.net/badge/React.js/loading/pink)](https://reactjs.org/)
-[![Flask](https://badgen.net/badge/Flask/loading/cyan)](https://flask.palletsprojects.com/en/2.2.x/)
-[![Optuna](https://badgen.net/badge/Optuna/loading/pink)](https://optuna.org/)
 
 ### How to use LOKO AI?
 
