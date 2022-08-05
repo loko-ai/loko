@@ -113,9 +113,15 @@ Open the terminal, browse to the directory which contains the **.AppImage file**
 
 Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
 
+![MicrosoftTeams-image (13)](https://user-images.githubusercontent.com/78538303/183029700-493324da-5cf6-4155-a0db-26e1d763864c.png)
+
 
 Run LOKO AI by double-clicking on the .AppImage file or by typing the .AppImage file
 name in the terminal. 
+
+
+![MicrosoftTeams-image (14)](https://user-images.githubusercontent.com/78538303/183029785-e595a00d-97a1-49ce-b661-e441658bbe3e.png)
+
 ### Dependencies
 
 
