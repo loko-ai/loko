@@ -123,6 +123,9 @@ Software requirements:
 [**Linux**](https://github.com/loko-ai/loko/releases/download/linux-v0.0.1-alpha/LoKo-Linux-0.3.3.AppImage)
 MacOS
 
+## Windows
+
+
 ## Linux
 - Download LOKO AI .AppImage executable [here](LINK FILE .AppImage)
 
@@ -132,9 +135,13 @@ Open the terminal, browse to the directory which contains the **.AppImage file**
 
 Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
 
+![](../Downloads/MicrosoftTeams-image (13).png)
+
 
 Run LOKO AI by double-clicking on the .AppImage file or by typing the .AppImage file
 name in the terminal. 
+
+## MacOS
 
 
 ### How to use LOKO AI?
