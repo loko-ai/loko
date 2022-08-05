@@ -58,27 +58,32 @@ To install LOKO AI all you need is **Docker**.
 You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 
 **Debian/Ubuntu** based distros:
-- sudo apt install docker.io
+- sudo apt install -y docker.io
+- sudo systemctl enable docker && sudo systemctl start docker
+- sudo usermod -aG docker $USER && reboot
 
-**RHEL** based distros:
-- sudo yum install -y yum-utils
-- sudo yum-config-manager --add-repo https://download.docker.com/linux/rhel/docker-ce.repo
-- sudo yum install docker-ce docker-ce-cli containerd.io docker-compose-plugin
-
-**CentOS** based distros:
+**RHEL/CentOS** based distros:
+- sudo yum remove -y docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-engine podman runc
 - sudo yum install -y yum-utils
 - sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+- sudo yum install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
+- sudo systemctl enable docker && sudo systemctl start docker
+- sudo usermod -aG docker $USER && reboot
 
 **Fedora** based distros:
 - sudo dnf -y install dnf-plugins-core
 - sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
 - sudo dnf install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+- sudo systemctl enable docker && sudo systemctl start docker
+- sudo usermod -aG docker $USER && reboot
 
 **Windows OS**:
 - install Docker Desktop following [this link](https://docs.docker.com/desktop/install/windows-install/)
 
 **Mac OS** (for Intel Chip and Apple Silicon):
 - install Docker Desktop following [this link](https://docs.docker.com/desktop/install/mac-install/)
+
+
 
 **Linux**:
 
@@ -88,11 +93,11 @@ Hardware minimum requirements:
 - an Intel Pentium 4 processor or later that's SSE3 capable
 
 Software requirements: 
-- 64-bit Ubuntu 18.04+ 
+- 64-bit OS
+- Ubuntu 18.04+ 
 - Debian 10+
 - openSUSE 15.2+
-- or Fedora Linux 32+
-- Docker
+- Fedora Linux 32+
 
 
 
