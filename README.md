@@ -113,15 +113,9 @@ Open the terminal, browse to the directory which contains the **.AppImage file**
 
 Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
 
-![MicrosoftTeams-image (13)](https://user-images.githubusercontent.com/78538303/183029700-493324da-5cf6-4155-a0db-26e1d763864c.png)
-
 
 Run LOKO AI by double-clicking on the .AppImage file or by typing the .AppImage file
 name in the terminal. 
-
-
-![MicrosoftTeams-image (14)](https://user-images.githubusercontent.com/78538303/183029785-e595a00d-97a1-49ce-b661-e441658bbe3e.png)
-
 ### Dependencies
 
 
@@ -156,19 +150,15 @@ Alternatively,
 ## Linux
 
 
-• If there are some errors regarding FUSE in the terminal or the LOKO AI app doesn't run, try
-to install FUSE by following these instructions:
-https://github.com/AppImage/AppImageKit/wiki/FUSE
-If FUSE is already installed, try to restart your PC
-• If in the terminal you see “Exiting GPU process due to errors during initialization”,
-it means that you don’t have any HW Acceleration, try to install or update your GPU Driver
-• If in the terminal you see “libGL error: MESA-LOADER: failed to retrieve device
-information” it means that you are using an unsupported, unofficial or third-party GPU
-Driver, try to install a different GPU Driver or update your existing one
-• During the first start of LOKO AI, the app will pull the required containers from a remote
-repository. If there are network errors or corrupted downloads, LOKO AI could still run but
-some functionalities could be broken, try to close and start again LOKO AI in order to pull
-again its containers 
+• If there are some errors regarding FUSE in the terminal or the LOKO AI app doesn't run, try to install FUSE by following [these instructions](https://github.com/AppImage/AppImageKit/wiki/FUSE).
+
+If FUSE is already installed, try to restart your PC:
+
+• If in the terminal you see *Exiting GPU process due to errors during initialization*, it means that you don’t have any **HW Acceleration**, try to install or update your GPU Driver
+
+• If in the terminal you see *libGL error: MESA-LOADER: failed to retrieve device information* it means that you are using an unsupported, unofficial or third-party **GPU Driver**, try to install a different GPU Driver or update your existing one
+
+• During the first start of LOKO AI, the app will pull the required containers from a remote repository. If there are network **errors** or corrupted downloads, LOKO AI could **still run** but some functionalities could be **broken**, try to close and start again LOKO AI in order to **pull again** its containers 
 
 
 
