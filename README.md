@@ -189,7 +189,7 @@ Alternatively,
 
 ## Windows
 
-Docker Desktop requires VT-x or VT-D (Intel CPUs) or SVM (AMD CPUs) support enabled in the BIOS settings. The procedure to enable these technologies may vary, depending on BIOS appearance, organization and motherboards BIOS settings customization. VT-x could be also called *Intel Virtualization Technology* and SVM could be also called *Secure Virtual Machine*.
+Docker Desktop requires **VT-x**, **VT-D (Intel CPUs)** or **SVM (AMD CPUs)** support enabled in the BIOS settings. The procedure to enable these technologies may vary, depending on BIOS appearance, organization and motherboards BIOS settings customization. VT-x could be also called *Intel Virtualization Technology* and SVM could be also called *Secure Virtual Machine*.
 
 **Example of enabling VT-x (for Intel CPUs) in a Gigabyte motherboard:**
 - Enter the BIOS *Settings*, pressing *Esc*, *Del* or F2 in the keyboard after power on (figura)

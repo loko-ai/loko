@@ -203,10 +203,9 @@ Docker Desktop requires VT-x or VT-D (Intel CPUs) or SVM (AMD CPUs) support enab
 - set *SVM Mode* as *Enabled*
 - exit and Save the changes
 
-**Docker Desktop can work using Hyper-V or WLS2 backend engine:**
+### Docker Desktop can work using Hyper-V or WLS2 backend engine:
 
-### Hyper-V 
-is a legacy Backend for Docker. It needs Hyper-V feature enabled which is available only on Education, Enteprice or Pro editions of Windows 8, Windows 8.1 and Windows 10 build 1809 (April 2018 Update)
+**Hyper-V** is a legacy Backend for Docker. It needs Hyper-V feature enabled which is available only on Education, Enteprice or Pro editions of Windows 8, Windows 8.1 and Windows 10 build 1809 (April 2018 Update)
 
 - **Enable Hyper-V feature:**
 
@@ -223,7 +222,7 @@ is a legacy Backend for Docker. It needs Hyper-V feature enabled which is availa
 - Windows 8 or above, Enterprise, Pro, or Education edition
 - Minimum of 4 GB of RAM
 
-**WLS2:** Faster than Hyper-V Backend as it uses Windows Subsystem for Linux feature, which is only available on all editions of Windows 10 build 1903 (May 2019 Update) or higher
+**WLS2** is faster than Hyper-V Backend as it uses Windows Subsystem for Linux feature, which is only available on all editions of Windows 10 build 1903 (May 2019 Update) or higher
 
 - **Enable WSL2 feature:**
 
