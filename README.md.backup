@@ -130,9 +130,9 @@ MacOS
 
 - install LOKO AI by double-clicking on the .exe file (fig1)
 
-If a Windows Defender SmartScreen pop-up shows up, click on *More info* (fig2) and then on *Run anyway* (fig3)
+If a Windows Defender SmartScreen pop-up shows up, click on *More info* (fig2) and then on *Run anyway" (fig3)
 
-- choose whether to install LOKO AI globally (for all users on your Windows PC) or only for the current user, then click *Next* (fig4)
+- choose whether to install LOKO AI globally (for all users on your Windows PC) or only for the current user, then click "Next" (fig4)
 
 - if *Anyone who uses this computer* is selected, the Windows UAC prompt will show up. To get Admin Privileges and allow LOKO AI to be installed globally, click *Yes* (fig5)
 
