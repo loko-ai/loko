@@ -116,13 +116,14 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 
 
 
-# Installation
+# Installation 
 
 **OS** | **Portable version** 
   -----------|------------|
 [**Windows**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Windows-0.3.6.exe) | |                  
-[**Linux**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Linux-0.3.6.deb) |    [⬇](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-0.3.6.AppImage) |
+[**Linux**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Linux-0.3.6.deb) |                       [⬇](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-0.3.6.AppImage) |
 [**MacOS**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Mac-0.3.6.dmg)
+
 
 ## Windows
 
