@@ -122,13 +122,11 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
   -----------|------------|
 [**Windows**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Windows-0.3.6.exe) | |                  
 [**Linux**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Linux-0.3.6.deb)
-[**MacOS**]
+[**MacOS**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Mac-0.3.6.dmg)
 
 ## Windows
 
-Download LOKO AI self-extractable executable by following this link (link file .exe)
-
-- install LOKO AI by double-clicking on the .exe file (fig1)
+Install LOKO AI by double-clicking on the .exe file (fig1)
 
 ![fig1](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig1.jpg)
 
@@ -189,6 +187,65 @@ Alternatively,
 
 # Troubleshooting
 
+## Windows
+
+Docker Desktop requires VT-x or VT-D (Intel CPUs) or SVM (AMD CPUs) support enabled in the BIOS settings. The procedure to enable these technologies may vary, depending on BIOS appearance, organization and motherboards BIOS settings customization. VT-x could be also called *Intel Virtualization Technology* and SVM could be also called *Secure Virtual Machine*.
+
+**Example of enabling VT-x (for Intel CPUs) in a Gigabyte motherboard:**
+- Enter the BIOS *Settings*, pressing *Esc*, *Del* or F2 in the keyboard after power on (figura)
+*Select BIOS Features* and enable *Intel Virtualization Technology*
+- exit and save the changes
+
+**Example of enabling SVM (for AMD CPUs) in a Asus ROG motherboard:**
+- Enter the *BIOS Settings*, pressing *Esc*, *Del* or F2 in the keyboard after power on (figura) 
+- press F7 to enter into *Advanced Mode* (figura)
+- click *Advanced* and then *CPU Configuration* (figura)
+- set *SVM Mode* as *Enabled*
+- exit and Save the changes
+
+### Docker Desktop can work using Hyper-V or WLS2 backend engine:
+
+**Hyper-V** is a legacy Backend for Docker. It needs Hyper-V feature enabled which is available only on Education, Enteprice or Pro editions of Windows 8, Windows 8.1 and Windows 10 build 1809 (April 2018 Update)
+
+- **Enable Hyper-V feature:**
+
+1. Open *Start* on Windows.
+2. Search for *Turn Windows features on or off* and click the top result (figura)
+
+3. Check the *Hyper-V* option. (figura)
+4. Click the OK button and restart the computer.
+
+**NOTE:** if Hyper-V feature doesn’t show up, be sure that all of the following requirements are satisfied:
+
+- 64-bit CPU that supports Second Level Address Translation (SLAT)
+- VT-x (Intel CPUs) or SVM (AMD CPUs) support enabled in BIOS settings
+- Windows 8 or above, Enterprise, Pro, or Education edition
+- Minimum of 4 GB of RAM
+
+**WLS2** is faster than Hyper-V Backend as it uses Windows Subsystem for Linux feature, which is only available on all editions of Windows 10 build 1903 (May 2019 Update) or higher
+
+- **Enable WSL2 feature:**
+
+1. Open *Start* on Windows.
+2. Search for *Turn Windows features on or off* and click the top result (figura)
+
+3. Check the *Windows Subsystem for Linux* option. (figura)
+
+4. Click the OK button and restart the computer.
+
+Download and install the [Linux kernel update package](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi.).
+
+Follow the usual installation instructions to install Docker Desktop. If you are running a supported system, Docker Desktop prompts you to enable **WSL2** during installation. 
+
+Read the information displayed on the screen and enable WSL2 to continue.
+
+To check wether Docker is using Hyper-V or WLS2 Backend engine:
+
+- Start Docker Desktop
+- From the Docker Menu click on *Settings* and select *General*
+- You will see the *Use WSL2 based engine* check box
+
+(figura)
 ## Linux
 
 
