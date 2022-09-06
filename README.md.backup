@@ -270,7 +270,9 @@ To check wether Docker is using Hyper-V or WLS2 Backend engine:
 - From the Docker Menu click on *Settings* and select *General*
 - You will see the *Use WSL2 based engine* check box
 
-(figura)
+![dockerengine](https://github.com/loko-ai/loko/blob/development/immagini/3.%20Docker%20Engine.jpg)
+
+
 ## Linux
 
 

@@ -195,7 +195,7 @@ The procedure to enable these technologies may vary, depending on BIOS appearanc
 
 **Example of enabling VT-x (for Intel CPUs) in a Gigabyte motherboard:**
 - Enter the BIOS *Settings*, pressing *Esc*, *Del* or F2 in the keyboard after power on
-- *Select BIOS Features* and enable *Intel Virtualization Technology*
+- Select *BIOS Features* and enable *Intel Virtualization Technology*
 
 ![screenshotVT-x](https://github.com/loko-ai/loko/blob/development/immagini/enabling%20VT-x.jpg)
 
