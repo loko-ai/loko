@@ -173,23 +173,6 @@ name in the terminal.
 
 ## MacOS
 
-Download the installer file from the table above, double click on it and move the icon to "Application".
-
-![macincon](https://github.com/loko-ai/loko/blob/development/immagini/MicrosoftTeams-image.png)
-
-If the macOS cannot verify the app as in the following image.
-
-![macissue](https://github.com/loko-ai/loko/blob/development/immagini/isssuemac_installation.png)
-  1.  On your Mac, choose Apple menu  > System Preferences, click Security & Privacy , then click General.
-  If the lock at the bottom left is locked , click it to unlock the preference pane.
-
-  2. Select the sources from which you’ll allow software to be installed:
-
-  App Store: Allows apps only from the Mac App Store. This is the most secure setting. All the developers of apps in the Mac App Store are identified by Apple, and each app is reviewed before it’s accepted. macOS checks the app before it opens the first time to be certain it hasn’t been modified since the developer shipped it. If there’s ever a problem with an app, Apple removes it from the Mac App Store.
-
-  App Store and identified developers: Allows apps from the Mac App Store and apps from identified developers. Identified developers are registered with Apple and can optionally upload their apps to Apple for a security check. If problems occur with an app, Apple can revoke its authorisation. macOS checks the app before it opens the first time to be certain it hasn’t been modified since the developer shipped it.
-  
-[**check on Apple Support**](https://support.apple.com/en-gb/guide/mac-help/mh40596/12.0/mac/12.3)
 
 ### How to use LOKO AI?
 
