@@ -189,19 +189,35 @@ Alternatively,
 
 ## Windows
 
-Docker Desktop requires VT-x or VT-D (Intel CPUs) or SVM (AMD CPUs) support enabled in the BIOS settings. The procedure to enable these technologies may vary, depending on BIOS appearance, organization and motherboards BIOS settings customization. VT-x could be also called *Intel Virtualization Technology* and SVM could be also called *Secure Virtual Machine*.
+Docker Desktop requires **VT-x**, **VT-D (Intel CPUs)** or **SVM (AMD CPUs)** support enabled in the BIOS settings. 
+
+The procedure to enable these technologies may vary, depending on BIOS appearance, organization and motherboards BIOS settings customization. VT-x could be also called *Intel Virtualization Technology* and SVM could be also called *Secure Virtual Machine*.
 
 **Example of enabling VT-x (for Intel CPUs) in a Gigabyte motherboard:**
-- Enter the BIOS *Settings*, pressing *Esc*, *Del* or F2 in the keyboard after power on (figura)
-*Select BIOS Features* and enable *Intel Virtualization Technology*
+- Enter the BIOS *Settings*, pressing *Esc*, *Del* or F2 in the keyboard after power on
+- *Select BIOS Features* and enable *Intel Virtualization Technology*
+
+![screenshotVT-x](https://github.com/loko-ai/loko/blob/development/immagini/enabling%20VT-x.jpg)
+
 - exit and save the changes
 
 **Example of enabling SVM (for AMD CPUs) in a Asus ROG motherboard:**
 - Enter the *BIOS Settings*, pressing *Esc*, *Del* or F2 in the keyboard after power on (figura) 
-- press F7 to enter into *Advanced Mode* (figura)
-- click *Advanced* and then *CPU Configuration* (figura)
+
+![screenshotVT-x1](https://github.com/loko-ai/loko/blob/development/immagini/enablingVT-x.1.jpg)
+
+- press F7 to enter into *Advanced Mode*
+
+![screenshotSVM](https://github.com/loko-ai/loko/blob/development/immagini/enablingVT-x.2.jpg)
+
+- click *Advanced* and then *CPU Configuration*
+
+![screenshotadvanced](https://github.com/loko-ai/loko/blob/development/immagini/enablingVT-x.3.jpg)
+
 - set *SVM Mode* as *Enabled*
 - exit and Save the changes
+
+![screenshotSVMenabled](https://github.com/loko-ai/loko/blob/development/immagini/enablingVT-x.4.jpg)
 
 ### Docker Desktop can work using Hyper-V or WLS2 backend engine:
 
@@ -210,9 +226,14 @@ Docker Desktop requires VT-x or VT-D (Intel CPUs) or SVM (AMD CPUs) support enab
 - **Enable Hyper-V feature:**
 
 1. Open *Start* on Windows.
-2. Search for *Turn Windows features on or off* and click the top result (figura)
+2. Search for *Turn Windows features on or off* and click the top result
 
-3. Check the *Hyper-V* option. (figura)
+![screenshotturnwindows](https://github.com/loko-ai/loko/blob/development/immagini/turn.windows.jpg)
+
+3. Check the *Hyper-V* option
+
+![screenshothyperv](https://github.com/loko-ai/loko/blob/development/immagini/turn.windows.2.jpg)
+
 4. Click the OK button and restart the computer.
 
 **NOTE:** if Hyper-V feature doesn’t show up, be sure that all of the following requirements are satisfied:
@@ -227,9 +248,13 @@ Docker Desktop requires VT-x or VT-D (Intel CPUs) or SVM (AMD CPUs) support enab
 - **Enable WSL2 feature:**
 
 1. Open *Start* on Windows.
-2. Search for *Turn Windows features on or off* and click the top result (figura)
+2. Search for *Turn Windows features on or off* and click the top result
 
-3. Check the *Windows Subsystem for Linux* option. (figura)
+![screenshotturnwindows](https://github.com/loko-ai/loko/blob/development/immagini/turn.windows.jpg)
+
+3. Check the *Windows Subsystem for Linux* option
+
+![screenshotlinux](https://github.com/loko-ai/loko/blob/development/immagini/turn.windows.3.jpg)
 
 4. Click the OK button and restart the computer.
 
