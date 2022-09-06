@@ -126,21 +126,33 @@ MacOS
 
 ## Windows
 
-- Download LOKO AI self-extractable executable by following this link (link file .exe)
+Download LOKO AI self-extractable executable by following this link (link file .exe)
 
 - install LOKO AI by double-clicking on the .exe file (fig1)
 
+![fig1](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig1.jpg)
+
 If a Windows Defender SmartScreen pop-up shows up, click on *More info* (fig2) and then on *Run anyway* (fig3)
+
+![fig2](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig2.jpg)
+![fig3](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig3.jpg)
 
 - choose whether to install LOKO AI globally (for all users on your Windows PC) or only for the current user, then click *Next* (fig4)
 
+![fig4](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig4.jpg)
+
 - if *Anyone who uses this computer* is selected, the Windows UAC prompt will show up. To get Admin Privileges and allow LOKO AI to be installed globally, click *Yes* (fig5)
 
-- choose the LOKO AI installation path: for a global installation the default path will be "C:\Program Files\LoKo", for a single user installation the default path will be "C:\Users\<USER>\AppData\Local\Programs\LoKo". The installation path can be changed by clicking on "Browse...". 
+![fig5](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig5.jpg)
+
+- choose the LOKO AI installation path: for a global installation the default path will be "C:\Program Files\LoKo", for a single user installation the default path will be "C:\Users\<USER>\AppData\Local\Programs\LoKo". The installation path can be changed by clicking on *Browse...*. 
 
 - once the desired path is selected, click *Install* (fig6)
 
+![fig6](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig6.jpg)
+
 - at the end of the installation, keep *Run LoKo* checked to run LOKO AI immediately after clicking *Finish* (fig7)
+
 
 
 ## Linux
