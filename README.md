@@ -120,9 +120,9 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 
 **Distribution** | **Status**
   -----------|------------|
-[**Windows**](https://github.com/loko-ai/loko/releases/download/windows-0.0.1-alpha/LoKo-Windows-0.3.3-Setup.2.exe) | |                  
-[**Linux**](https://github.com/loko-ai/loko/releases/download/linux-v0.0.1-alpha/LoKo-Linux-0.3.3.AppImage)
-MacOS
+[**Windows**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Windows-0.3.6.exe) | |                  
+[**Linux**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Linux-0.3.6.deb)
+[**MacOS**]
 
 ## Windows
 
@@ -153,10 +153,10 @@ If a Windows Defender SmartScreen pop-up shows up, click on *More info* (fig2) a
 
 - at the end of the installation, keep *Run LoKo* checked to run LOKO AI immediately after clicking *Finish* (fig7)
 
-
+![fig7](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig7.jpg)
 
 ## Linux
-- Download LOKO AI .AppImage executable [here](LINK FILE .AppImage)
+- Download LOKO AI .AppImage executable [here](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-0.3.6.AppImage)
 
 - In order to run LOKO AI, the AppImage must be executed as a Program:
 
