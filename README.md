@@ -20,7 +20,7 @@ For further informations about, read the Wiki: if you need to be **guided** in t
 [Install from source](https://github.com/loko-ai/loko/releases)
 
 
-# How does it work?
+# :bulb: How does it work?
 
 
 
@@ -102,15 +102,18 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 
 # How to use LOKO AI?
 
+## :books: Docs, guides and videotutorials
+
 
 If you're on the platform:
 - in the welcome page, go to **Read the documentation** to open the user guide
 - go to **Academy** section for videotutorials and lessons to learn how to use LOKO AI, and see specific use case.
 
-Alternatively,
+Alternatively from here,
 
 - read the [user guide](https://livetech.gitbook.io/user-guide-loko-ai/)
-- visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for videotutorials.
+- visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for videotutorials
+- see the examples of projects like the following: [Wikipedia](https://github.com/loko-ai/wikipedia_ext), [local GUI](https://github.com/loko-ai/local_gui_example), [mongo GUI](https://github.com/loko-ai/mongo_gui_example), [Tesseract base API](https://github.com/loko-ai/tesseract-base-api.git), and [nn simple img clf](https://github.com/loko-ai/nn-simple-img-clf.git)
 
 
 
