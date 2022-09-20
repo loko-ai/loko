@@ -116,65 +116,18 @@ You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 
 
 
-# Installation 
+# Link for installation 
 
 **OS** | **Portable version** 
   -----------|------------|
 [**Windows**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Windows-0.3.6.exe) | |                  
-[**Linux**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Linux-0.3.6.deb) |                       [⬇](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-0.3.6.AppImage) |
+[**Linux**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Linux-0.3.6.deb) |                       [here ⬇](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-0.3.6.AppImage) |
 [**MacOS**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-Mac-0.3.6.dmg)
 
-
-## Windows
-
-Install LOKO AI by double-clicking on the .exe file (fig1)
-
-![fig1](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig1.jpg)
-
-If a Windows Defender SmartScreen pop-up shows up, click on *More info* (fig2) and then on *Run anyway* (fig3)
-
-![fig2](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig2.jpg)
-![fig3](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig3.jpg)
-
-- choose whether to install LOKO AI globally (for all users on your Windows PC) or only for the current user, then click *Next* (fig4)
-
-![fig4](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig4.jpg)
-
-- if *Anyone who uses this computer* is selected, the Windows UAC prompt will show up. To get Admin Privileges and allow LOKO AI to be installed globally, click *Yes* (fig5)
-
-![fig5](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig5.jpg)
-
-- choose the LOKO AI installation path: for a global installation the default path will be "C:\Program Files\LoKo", for a single user installation the default path will be "C:\Users\<USER>\AppData\Local\Programs\LoKo". The installation path can be changed by clicking on *Browse...*. 
-
-- once the desired path is selected, click *Install* (fig6)
-
-![fig6](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig6.jpg)
-
-- at the end of the installation, keep *Run LoKo* checked to run LOKO AI immediately after clicking *Finish* (fig7)
-
-![fig7](https://github.com/loko-ai/loko/blob/development/immagini/WinInstall.fig7.jpg)
-
-## Linux
-- Download LOKO AI .AppImage executable [here](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.6/LoKo-0.3.6.AppImage)
-
-- In order to run LOKO AI, the AppImage must be executed as a Program:
-
-Open the terminal, browse to the directory which contains the **.AppImage file**, execute: **chmod +x loko-Linux-0.3.3.appimage**. 
-
-Alternatively, right-click on the .AppImage file, *Properties*, go to the *Permissions* tab, make sure the *Allow executing file as a program* field is checked.
-
-![linuxinstallation](https://raw.githubusercontent.com/loko-ai/loko/development/immagini/Linux_installation.png)
+For further informations about, read the Wiki: if you need to be **guided** in the installation with your OS, go [here](https://github.com/loko-ai/loko/wiki/Installation); for **troubleshooting**, click [here](https://github.com/loko-ai/loko/wiki/Troubleshooting).
 
 
-Run LOKO AI by double-clicking on the .AppImage file or by typing the .AppImage file
-name in the terminal. 
-
-![linuxappimage](https://raw.githubusercontent.com/loko-ai/loko/development/immagini/Linuxappimage.png)
-
-## MacOS
-
-
-### How to use LOKO AI?
+# How to use LOKO AI?
 
 
 If you're on the platform:
@@ -183,113 +136,12 @@ If you're on the platform:
 
 Alternatively,
 
-- go [here](https://livetech.gitbook.io/user-guide-loko-ai/) for the user guide
-- visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for our videotutorials.
-
-# Troubleshooting
-
-## Windows
-
-Docker Desktop requires **VT-x**, **VT-D (Intel CPUs)** or **SVM (AMD CPUs)** support enabled in the BIOS settings. 
-
-The procedure to enable these technologies may vary, depending on BIOS appearance, organization and motherboards BIOS settings customization. VT-x could be also called *Intel Virtualization Technology* and SVM could be also called *Secure Virtual Machine*.
-
-**Example of enabling VT-x (for Intel CPUs) in a Gigabyte motherboard:**
-- Enter the BIOS *Settings*, pressing *Esc*, *Del* or F2 in the keyboard after power on
-- Select *BIOS Features* and enable *Intel Virtualization Technology*
-
-![screenshotVT-x](https://github.com/loko-ai/loko/blob/development/immagini/enabling%20VT-x.jpg)
-
-- exit and save the changes
-
-**Example of enabling SVM (for AMD CPUs) in a Asus ROG motherboard:**
-- Enter the *BIOS Settings*, pressing *Esc*, *Del* or F2 in the keyboard after power on (figura) 
-
-![screenshotVT-x1](https://github.com/loko-ai/loko/blob/development/immagini/enablingVT-x.1.jpg)
-
-- press F7 to enter into *Advanced Mode*
-
-![screenshotSVM](https://github.com/loko-ai/loko/blob/development/immagini/enablingVT-x.2.jpg)
-
-- click *Advanced* and then *CPU Configuration*
-
-![screenshotadvanced](https://github.com/loko-ai/loko/blob/development/immagini/enablingVT-x.3.jpg)
-
-- set *SVM Mode* as *Enabled*
-- exit and Save the changes
-
-![screenshotSVMenabled](https://github.com/loko-ai/loko/blob/development/immagini/enablingVT-x.4.jpg)
-
-### Docker Desktop can work using Hyper-V or WLS2 backend engine:
-
-**Hyper-V** is a legacy Backend for Docker. It needs Hyper-V feature enabled which is available only on Education, Enteprice or Pro editions of Windows 8, Windows 8.1 and Windows 10 build 1809 (April 2018 Update)
-
-- **Enable Hyper-V feature:**
-
-1. Open *Start* on Windows.
-2. Search for *Turn Windows features on or off* and click the top result
-
-![screenshotturnwindows](https://github.com/loko-ai/loko/blob/development/immagini/turn.windows.jpg)
-
-3. Check the *Hyper-V* option
-
-![screenshothyperv](https://github.com/loko-ai/loko/blob/development/immagini/turn.windows.2.jpg)
-
-4. Click the OK button and restart the computer.
-
-**NOTE:** if Hyper-V feature doesn’t show up, be sure that all of the following requirements are satisfied:
-
-- 64-bit CPU that supports Second Level Address Translation (SLAT)
-- VT-x (Intel CPUs) or SVM (AMD CPUs) support enabled in BIOS settings
-- Windows 8 or above, Enterprise, Pro, or Education edition
-- Minimum of 4 GB of RAM
-
-**WLS2** is faster than Hyper-V Backend as it uses Windows Subsystem for Linux feature, which is only available on all editions of Windows 10 build 1903 (May 2019 Update) or higher
-
-- **Enable WSL2 feature:**
-
-1. Open *Start* on Windows.
-2. Search for *Turn Windows features on or off* and click the top result
-
-![screenshotturnwindows](https://github.com/loko-ai/loko/blob/development/immagini/turn.windows.jpg)
-
-3. Check the *Windows Subsystem for Linux* option
-
-![screenshotlinux](https://github.com/loko-ai/loko/blob/development/immagini/turn.windows.3.jpg)
-
-4. Click the OK button and restart the computer.
-
-Download and install the [Linux kernel update package](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi.).
-
-Follow the usual installation instructions to install Docker Desktop. If you are running a supported system, Docker Desktop prompts you to enable **WSL2** during installation. 
-
-Read the information displayed on the screen and enable WSL2 to continue.
-
-To check wether Docker is using Hyper-V or WLS2 Backend engine:
-
-- Start Docker Desktop
-- From the Docker Menu click on *Settings* and select *General*
-- You will see the *Use WSL2 based engine* check box
-
-![dockerengine](https://github.com/loko-ai/loko/blob/development/immagini/3.%20Docker%20Engine.jpg)
-
-
-## Linux
-
-
-• If there are some errors regarding FUSE in the terminal or the LOKO AI app doesn't run, try to install FUSE by following [these instructions](https://github.com/AppImage/AppImageKit/wiki/FUSE).
-
-If FUSE is already installed, try to restart your PC:
-
-• If in the terminal you see *Exiting GPU process due to errors during initialization*, it means that you don’t have any **HW Acceleration**, try to install or update your GPU Driver
-
-• If in the terminal you see *libGL error: MESA-LOADER: failed to retrieve device information* it means that you are using an unsupported, unofficial or third-party **GPU Driver**, try to install a different GPU Driver or update your existing one
-
-• During the first start of LOKO AI, the app will pull the required containers from a remote repository. If there are network **errors** or corrupted downloads, LOKO AI could **still run** but some functionalities could be **broken**, try to close and start again LOKO AI in order to **pull again** its containers 
+- read the [user guide](https://livetech.gitbook.io/user-guide-loko-ai/)
+- visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for videotutorials.
 
 
 
-## Ask
+# Ask
 
 | What                            | Where                               |
 | ------------------------------- | --------------------------------------- |
