@@ -75,45 +75,19 @@ Finally, it's possible to manage your favourite database among the one supported
 To install LOKO AI all you need is **Docker**.
 You can install Docker on every principal OS, like **Windows, MacOS and Linux**.
 
-**Debian/Ubuntu** based distros:
-- sudo apt install -y docker.io
-- sudo systemctl enable docker && sudo systemctl start docker
-- sudo usermod -aG docker $USER && reboot
+[**Debian/Ubuntu** based distros](https://github.com/loko-ai/loko/wiki/Requirements-and-Installation#debianubuntu-based-distros)
 
-**RHEL/CentOS** based distros:
-- sudo yum remove -y docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-engine podman runc
-- sudo yum install -y yum-utils
-- sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
-- sudo yum install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
-- sudo systemctl enable docker && sudo systemctl start docker
-- sudo usermod -aG docker $USER && reboot
+[**RHEL/CentOS** based distros](https://github.com/loko-ai/loko/wiki/Requirements-and-Installation#rhelcentos-based-distros)
 
-**Fedora** based distros:
-- sudo dnf remove -y docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-selinux docker-engine-selinux docker-engine
-- sudo dnf install -y dnf-plugins-core
-- sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
-- sudo dnf install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
-- sudo systemctl enable docker && sudo systemctl start docker
-- sudo usermod -aG docker $USER && reboot
+[**Fedora** based distros](https://github.com/loko-ai/loko/wiki/Requirements-and-Installation#fedora-based-distros)
 
-**Windows OS**:
-- install Docker Desktop following this [link](https://docs.docker.com/desktop/install/windows-install/)
+[**Windows OS**](https://github.com/loko-ai/loko/wiki/Requirements-and-Installation#windows-os)
 
-**Mac OS** (for Intel Chip and Apple Silicon):
-- install Docker Desktop following this [link](https://docs.docker.com/desktop/install/mac-install/)
+[**Mac OS** (for Intel Chip and Apple Silicon)](https://github.com/loko-ai/loko/wiki/Requirements-and-Installation#mac-os-for-intel-chip-and-apple-silicon)
 
-**Hardware minimum requirements:**
-- HW Acceleration  
-- GPU Drivers
-- an Intel Pentium 4 processor or later that's SSE3 capable
+[**Hardware minimum requirements**](https://github.com/loko-ai/loko/wiki/Requirements-and-Installation#hardware-minimum-requirements)
 
-**Recommended OS:**  
-- 64-bit OS
-- Ubuntu 18.04+  
-- Debian 10+
-- Rhel/CentOS 8+
-- Fedora Linux 32+
-
+[**Recommended OS**](https://github.com/loko-ai/loko/wiki/Requirements-and-Installation#recommended-os)
 
 
 # Installation 
