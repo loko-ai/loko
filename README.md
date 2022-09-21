@@ -113,6 +113,7 @@ Alternatively from here,
 
 - read the [user guide](https://livetech.gitbook.io/user-guide-loko-ai/)
 - visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for videotutorials
+- learn how to create Custom Extensions in the [Wiki](https://github.com/loko-ai/loko/wiki/Custom-extensions)
 - see the examples of projects like the following: [Wikipedia](https://github.com/loko-ai/wikipedia_ext), [local GUI](https://github.com/loko-ai/local_gui_example), [mongo GUI](https://github.com/loko-ai/mongo_gui_example), [Tesseract base API](https://github.com/loko-ai/tesseract-base-api.git), [nn simple img clf](https://github.com/loko-ai/nn-simple-img-clf.git), and [pycaret ext](https://github.com/loko-ai/pycaret_ext)
 
 
