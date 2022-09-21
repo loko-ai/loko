@@ -13,7 +13,7 @@ LOKO AI is a **low-code platform** designed to easily and quickly create **artif
 [**Linux**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.8/LoKo-Linux-0.3.8.deb) |                       [here ⬇](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.8/LoKo-Linux-0.3.8.AppImage) |
 [**MacOS**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.3.8/LoKo-Mac-0.3.8-Installer.dmg)
 
-For further informations about, read the Wiki: if you need to be **guided** in the installation with your OS, go [here](https://github.com/loko-ai/loko/wiki/Installation); for **troubleshooting**, click [here](https://github.com/loko-ai/loko/wiki/Troubleshooting).
+For further informations about, read the Wiki: if you need to be **guided** in the installation with your OS, go [here](https://github.com/loko-ai/loko/wiki/Requirements-and-Installation); for **troubleshooting**, click [here](https://github.com/loko-ai/loko/wiki/Troubleshooting).
 
 
 
