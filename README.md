@@ -1,7 +1,8 @@
 ![logo_50](https://user-images.githubusercontent.com/78538303/180229383-b5b2d7cc-bee0-4688-9a8a-1c200976ad78.png)
 
 
-LOKO AI is an **on-prem IDE** with special focus on **hybrid** low/full-code development, AI technologies, and cloud services. 
+LOKO AI is an **on-prem IDE** with special focus on **hybrid** low/full-code development, AI technologies, and cloud services.
+
 Create end-to-end **artificial intelligence applications** with LOKO!
 
 
