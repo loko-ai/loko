@@ -9,7 +9,7 @@ Create end-to-end **artificial intelligence applications** with LOKO!
 # :computer: Releases
 
 
-Check it out on [Get_Loko](https://loko-ai.com/#downloads)!
+Check it out on [Get_LOKO](https://loko-ai.com/#downloads)!
 
 For further informations about, read the Wiki: if you need to be **guided** in the installation with your OS, go [here](https://github.com/loko-ai/loko/wiki/Installation); for **troubleshooting**, click [here](https://github.com/loko-ai/loko/wiki/Troubleshooting).
 
