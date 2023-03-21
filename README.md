@@ -9,11 +9,7 @@ Create end-to-end **artificial intelligence applications** with LOKO!
 # :computer: Releases
 
 
-**Download** | **Portable version** 
-  -----------|------------|
-[**Windows**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.4.1/LoKo-Windows-0.4.1-Setup.exe) | |                  
-[**Linux**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.4.1/LoKo-Linux-0.4.1.deb) |                       [here ⬇](https://github.com/loko-ai/loko/releases/download/lokoai-v0.4.1/LoKo-Linux-0.4.1.AppImage) |
-[**MacOS**](https://github.com/loko-ai/loko/releases/download/lokoai-v0.4.1/LoKo-Mac-0.4.1-Installer.dmg)
+Check it out on [Get_Loko](https://loko-ai.com/#downloads)!
 
 For further informations about, read the Wiki: if you need to be **guided** in the installation with your OS, go [here](https://github.com/loko-ai/loko/wiki/Installation); for **troubleshooting**, click [here](https://github.com/loko-ai/loko/wiki/Troubleshooting).
 
