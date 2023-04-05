@@ -111,7 +111,7 @@ Alternatively from here,
 
 - read the [user guide](https://livetech.gitbook.io/user-guide-loko-ai/)
 - visit our [YouTube channel](https://www.youtube.com/channel/UCCqqKo-f4RpRCf7rkXteKAg/featured) for videotutorials
-- see the examples of projects like the following: [Wikipedia](https://github.com/loko-ai/wikipedia_ext), [local GUI](https://github.com/loko-ai/local_gui_example), [mongo GUI](https://github.com/loko-ai/mongo_gui_example), [Tesseract base API](https://github.com/loko-ai/tesseract-base-api.git), [nn simple img clf](https://github.com/loko-ai/nn-simple-img-clf.git), and [pycaret ext](https://github.com/loko-ai/pycaret_ext)
+- see the examples of projects like the following: [Churn predictions](https://github.com/loko-ai/churn_predictions_demo), [AWS Sagemaker demo](https://github.com/loko-ai/aws_sagemaker_demo), [time series demo](https://github.com/loko-ai/time_series_demo), [object detection demo](https://github.com/loko-ai/object_detection_demo).
 
 
 
