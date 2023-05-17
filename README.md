@@ -1,12 +1,13 @@
 ![logo_50](https://user-images.githubusercontent.com/78538303/180229383-b5b2d7cc-bee0-4688-9a8a-1c200976ad78.png)
 
+# What is LOKO AI?
 
 LOKO AI is an **on-prem IDE** with special focus on **hybrid** low/full-code development, AI technologies, and cloud services.
 
 Create end-to-end **artificial intelligence applications** with LOKO!
 
 
-# :computer: Releases
+## :computer: Releases
 
 
 Check it out on [Get_LOKO](https://loko-ai.com/#downloads)!
@@ -18,7 +19,7 @@ For further informations about, read the Wiki: if you need to be **guided** in t
 [Install from source](https://github.com/loko-ai/loko/releases)
 
 
-# :bulb: How does it work?
+## :bulb: How does it work?
 
 
 
